@@ -1,0 +1,17 @@
+body {
+   background-color: #29293d;
+   color: #b366ff;
+   font-style: italic;
+   font-size: 25px
+   
+}
+
+h1 {
+   text-align: center;
+   color: #990000;
+   letter-spacing: 5px;
+   text-shadow: 2px 2px #ff9999;
+   text-decoration: underline;
+   font-style: italic;
+
+}
